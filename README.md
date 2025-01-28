@@ -1,6 +1,6 @@
 <div align='center'><h1> Data Engineering & Analytics </h1></div>
 <div align="center">
-<a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Roland's Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Roland's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Roland's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+<a href="https://x.com/Roland_16_" target="_blank" rel="nofollow"><img align="right" alt="Roland's Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a><a href="https://www.linkedin.com/in/afanvi-kodjo-roland-607a3b224/" target="_blank" rel="nofollow"><img align="right" alt="Roland's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/" target="_blank" rel="nofollow"><img align="right" alt="Roland's Insta" width="22px" src="https://img.icons8.com/fluency/48/twitterx--v1.png" /></a>
 </div>
 
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
