@@ -5,7 +5,7 @@
 
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
-### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
+### Hi  👋  ![visitors]
 - :school: I'm [Kodjo Roland Afanvi](https://#), have pursued Computer Science Engineering from <a href="https://nancy.cesi.fr/">@CESI  </a>
 - 🔭 I’m currently working on  **Backend Development** 
 - :neutral_face: I have a **love/hate** relationship with **Programming and Data**
