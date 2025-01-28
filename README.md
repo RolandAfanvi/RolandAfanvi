@@ -16,7 +16,7 @@
 - :bulb: Occasionally I do participate in **Datathons**
 - 👨 Know more about me at [Sourcerer](https://#) 
 - 🌐 Visit my [porfolio website](https://#) for complete background and contact.
-- :boom: awesome octoprofile : [Keshav Singh](https://myoctoprofile.vercel.app/RolandAfanvi)
+- :boom: awesome octoprofile : [Kodjo Roland AFANVI](https://myoctoprofile.vercel.app/RolandAfanvi)
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
 <br />
