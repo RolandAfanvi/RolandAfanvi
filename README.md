@@ -74,128 +74,53 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://todo-codewithkeshav.herokuapp.com'>Todo-App</a></td>
-      <td>Python</td>
-      <td>this is my first flask project</td>
+      <td><a href='https://github.com/RolandAfanvi/Portfolio'>Portfolio</a></td>
+      <td>NextJS</td>
+      <td>this is my personal Portfolio. It describe my personal skills and professional</td>
     </tr>
     <tr>
-      <td><a href='https://keshavsingh4522.github.io/Projects/Calculator/'>Calculator</a></td>
-      <td>Html,Css</td>
-      <td>It is a simple calculator which do +,-,\*,/  operation</td>
+      <td><a href='https://github.com/RolandAfanvi/Chat-app'>Chat-App</a></td>
+      <td>Html,Css, TypeScript, Node.js</td>
+      <td>This project is a small web application for fun and learning languagues. It consist for two or many people to chat like Whatsapp et and social media ...</td>
     </tr>
     <tr>
-      <td><a href="https://keshavsingh4522.github.io/Projects/CodeEditor/">CodeEditor</a></td>
-      <td>HTML,CSS,Javascript</td>
-      <td>write html cod here and the result will display there</td>
+      <td><a href="https://github.com/RolandAfanvi/Audio_video_player">Audio & Video Player</a></td>
+      <td>C#</td>
+      <td>Developping Software for playing audio and video content like VLC. $</td>
     </tr>
     <tr>
-      <td><a href='https://keshavsingh4522.github.io/Projects/Wordpad/'>Wordpad</a></td>
-      <td>Html,CSS,Javascript</td>
-      <td>its functionality look like as wordpad</td>
+      <td><a href='https://github.com/RolandAfanvi/Bowling_Game'>Bowling Game</a></td>
+      <td>Html,CSS,Javascript, THREE.js</td>
+      <td>This is a Bowling Game with User interface developp during the second years of my bachelor degree</td>
     </tr>
     <tr>
-      <td><a href='https://keshavsingh4522.github.io/Projects/address%20maker/'>Address Maker</a></td>
-      <td>Html,CSS,Javascript</td>
-      <td> It generates an address in design format by filling in the details</td>
+      <td><a href='https://github.com/RolandAfanvi/MenuGUI'>MenuGUI</a></td>
+      <td>Html,CSS,Javascript,THREE.js</td>
+      <td> This is Menu GUI to control scene and camera in javascript. It is built in the first years of my bachelor degree</td>
     </tr>
     <tr>
-      <td><a href="https://keshavsingh4522.github.io/Projects/switcher-app/">Switcher app</a></td>
-      <td>HTML,CSS,jQuery</td>
-      <td>It changes  the text color by dragging and dropping color on text</td>
+      <td><a href="https://#">Jeu Memory</a></td>
+      <td>Java, NetBeans</td>
+      <td>It is Card Game developped in Java with Netbeans. All the cards are placed face down on a table. The goal is to find the pairs by not
+      turning over only two cards at a time. Each player in turn turns over two cards of their choice. If he
+      obtains the same patterns, he wins the pair then plays again. If he is wrong, he turns over both cards
+      face down in exactly the same place and it's on to the next player. The winner is the one who has the
+      no more cards.</td>
     </tr>
-    <tr>
-      <td><a href='https://keshavsingh4522.github.io/music-player/'>Music Player</a></td>
-      <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
-      <td>add songs and play music, it also uses to store data in  INDEXEDB Database by which we can play songs, if we do not clear the catch then the song will remain stored in a database.</td>
-    </tr>
+  
   </tbody>
 </table>
 </details>
 <!-- end work project section -->
 
-<!-- start statics fun section -->
-<details>
-<summary><b> Some Statistics Fun </b></summary>
-<div align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=tokyonight&hide_langs_below=4' />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=keshavsingh4522&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=keshavsingh4522&theme=dark)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=keshavsingh4522&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
-
-</div>
-</details>
-<!-- end statics fun section -->
 
 
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    118 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
-🌆 Daytime    214 commits    ████████░░░░░░░░░░░░░░░░░   33.23% 
-🌃 Evening    234 commits    █████████░░░░░░░░░░░░░░░░   36.34% 
-🌙 Night      78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
-Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-Wednesday    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
-Thursday     101 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
-Friday       82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Saturday     107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
-Sunday       120 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 34 mins             ████████████████████████░   97.77% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         10 repos            █████████████████░░░░░░░░   71.43% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-</details>
 
 
 <!-- start dynamic Spotify songs API -->
 ### I really like music :headphones:
 
-<!-- Nothing weird to see here -->
-<p align="center">currently jamming to</p>
-<p align="center">
-  <a href="https://spotify-now-playing-song.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability, and energy! -->
-    <img src="https://spotify-now-playing-song.vercel.app/api/now-playing">
-  </a>
-</p>
+
 
 <p align="center">
   <!-- He came up with the idea of HOW to show React components as an image on a README.md and the now-playing component! -->
