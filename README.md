@@ -6,23 +6,21 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
 ### Hi  👋  ![visitors]
-- :school: I'm [Kodjo Roland Afanvi](https://#), have pursued Computer Science Engineering from <a href="https://nancy.cesi.fr/">@CESI  </a>
-- 🔭 I’m currently working on  **Backend Development** 
-- :neutral_face: I have a **love/hate** relationship with **Programming and Data**
-- 🌱 I’m currently Working with tech Microservice,**Snowflake,PowerBI**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- :school: I'm [Kodjo Roland Afanvi](https://kodjo-roland-afanvi.fr), have pursued Computer Science Engineering from <a href="https://nancy.cesi.fr/">@CESI  </a>
+- 🔭 I’m currently working on  **Data Engineering & Analytics** 
+- :neutral_face: I have a **love** relationship with **Data management and Business Analysis**
+- 🌱 I’m currently Working with tech Microservice,**Snowflake,PowerBI,Azure Platform, Talend**
 - 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
-- :bulb: Occasionally I do participate in **Datathons**
-- 👨 Know more about me at [Sourcerer](https://#) 
-- 🌐 Visit my [porfolio website](https://#) for complete background and contact.
-- :boom: awesome octoprofile : [Kodjo Roland AFANVI](https://myoctoprofile.vercel.app/RolandAfanvi)
-<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
+- 😄 Pronouns: **Data, Leader** and **Kind Hearted**
+- :bulb: Occasionally I do participate in **Datathon, Football**
+- 🌐 Visit my [porfolio website](https://kodjo-roland-afanvi.fr) for complete background and contact.
+- :boom: awesome octoprofile : [Kodjo Roland AFANVI](https://octoprofile.vercel.app/user?id=rolandafanvi)
+
 
 <br />
 
 ## Profiles
-- [Kodjo-Roland-Afanvi-profile](https://##)
+- [Kodjo-Roland-Afanvi-profile](https://kodjo-roland-afanvi.fr)
 
 <!-- start work experience section -->
 <details>
@@ -39,9 +37,15 @@
   <tbody>
     <tr>
       <td><b><a href="https://www.pamline.fr/saint-gobain-pam">Saint Gobain PAM Canalisation</a> </b></td>
-      <td>Data & Analytics - IT </td>
-      <td>(Power BI & Snowflake) Data analysis</td>
-      <td>Sept 2025 - Present</td>
+      <td>Data Engineer & Analytics  </td>
+      <td>Data visualisation avec Power BI, Datawarehousing avec Snowflake et Data pipeline avec Azure data Factory </td>
+      <td>Sept 2025 - Sept 2026</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://www.pamline.fr/saint-gobain-pam">Saint-Gobain Gussrohr GmbH & Co. KG </a> </b></td>
+      <td>Business Data Analyst  </td>
+      <td>Data visualisation avec Power BI, SQLServer Data management, Ignition data management </td>
+      <td>Juin 2025 - Sept 2025</td>
     </tr>
      <tr>
       <td><b><a href="https://www.datathon.fr/">Datathon IA4care</a> </b></td>
@@ -51,8 +55,8 @@
     </tr>
     <tr>
       <td><b><a href="https://www.premista.fr/">PREMISTA GROUP</a> </b></td>
-      <td>Data science- IT</td>
-      <td>Data scientist</td>
+      <td>Data Engineer </td>
+      <td>API implementation avec FastAPI and Flask, Developpement avec Django, MariaDB database management</td>
       <td>October 2023 - August 2024</td>
     </tr>
 
