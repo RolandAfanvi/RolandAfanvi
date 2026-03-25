@@ -4,8 +4,7 @@
 </div>
 
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
-<img src="https://media.tenor.com/NOc0xJtFd0QAAAAC/data.gif" width="300" align="left">
-<img src="https://media.tenor.com/XRdFIo6fR-oAAAAC/digital-skola-data-engineer.gif" width="250" align="left">
+<img src="https://media.tenor.com/XRdFIo6fR-oAAAAC/digital-skola-data-engineer.gif" width="300" align="left">
 
 
 
