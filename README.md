@@ -4,6 +4,8 @@
 </div>
 
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+<img src='https://tenor.com/fr/view/big-data-gif-25444307' align='left'>
+
 
 ### Hi  👋  ![visitors]
 - :school: I'm [Kodjo Roland Afanvi](https://kodjo-roland-afanvi.fr), have pursued Computer Science Engineering from <a href="https://nancy.cesi.fr/">@CESI  </a>
