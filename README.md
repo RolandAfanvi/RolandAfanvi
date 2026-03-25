@@ -7,8 +7,8 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'> 
 <img src="https://media.tenor.com/XRdFIo6fR-oAAAAC/digital-skola-data-engineer.gif" width="300" align="left">
 -->
-<img src="https://media.tenor.com/XRdFIo6fR-oAAAAC/digital-skola-data-engineer.gif"   width="350" height="350" align="left">
-<br>
+<img src="https://media.tenor.com/XRdFIo6fR-oAAAAC/digital-skola-data-engineer.gif"   width="350" height="350" align="left" style="margin-right: 25px; margin-bottom: 10px;">
+
 
 
 
