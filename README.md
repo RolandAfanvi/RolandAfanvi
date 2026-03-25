@@ -8,11 +8,11 @@
 <img src="https://media.tenor.com/XRdFIo6fR-oAAAAC/digital-skola-data-engineer.gif" width="300" align="left">
 -->
 <img src="https://media.tenor.com/XRdFIo6fR-oAAAAC/digital-skola-data-engineer.gif"   width="350" height="350" align="left">
+<br>
 
 
 
 
-<div style="margin-left: 380px;">
 ### Hi  👋  ![visitors]
 - :school: I'm [Kodjo Roland Afanvi](https://kodjo-roland-afanvi.fr), have pursued Computer Science Engineering from <a href="https://nancy.cesi.fr/">@CESI  </a>
 - 🔭 I’m currently working on  **Data Engineering & Analytics** 
@@ -24,7 +24,7 @@
 - 🌐 Visit my [porfolio website](https://kodjo-roland-afanvi.fr) for complete background and contact.
 - :boom: awesome octoprofile : [Kodjo Roland AFANVI](https://octoprofile.vercel.app/user?id=rolandafanvi)
 
-</div>
+
 <br />
 
 ## Profiles
