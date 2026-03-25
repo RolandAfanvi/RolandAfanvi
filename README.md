@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/afanvi-kodjo-roland-607a3b224/" target="_blank" rel="nofollow"><img align="right" alt="Roland's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 </div>
 
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+
 <img src='https://tenor.com/fr/view/big-data-gif-25444307' align='left'>
 
 
