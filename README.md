@@ -120,24 +120,7 @@
 
 
 
-
-<!-- start dynamic Spotify songs API -->
-### I really like music :headphones:
-
-
-
-<p align="center">
-  <!-- He came up with the idea of HOW to show React components as an image on a README.md and the now-playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a> for song api</i>
-</p>
-<!-- end dynamic Spotify songs API -->
-
 <!-- start footer section -->
 
 ****
 
-<!--
-[![Profile views](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522) 
--->
-
-[![test_workflow](https://github.com/keshavsingh4522/keshavsingh4522/actions/workflows/blank.yml/badge.svg)](https://github.com/keshavsingh4522/keshavsingh4522/actions/workflows/blank.yml)
