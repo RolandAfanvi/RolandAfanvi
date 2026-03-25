@@ -67,7 +67,7 @@
 
 <!-- start work project section -->
 <details>
-<summary><b> My Work Project :point_right:</b></summary>
+<summary><b> My Project :point_right:</b></summary>
 <table>
   <thead>
     <tr>
