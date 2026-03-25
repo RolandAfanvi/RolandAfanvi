@@ -19,8 +19,6 @@
 - :neutral_face: I have a **love** relationship with **Data management and Business Analysis**
 - 🌱 I’m currently Working with tech Microservice,**Snowflake,PowerBI,Azure Platform, Talend**
 - 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Data, Leader** and **Kind Hearted**
-- :bulb: Occasionally I do participate in **Datathon, Football**
 - 🌐 Visit my [porfolio website](https://kodjo-roland-afanvi.fr) for complete background and contact.
 - :boom: awesome octoprofile : [Kodjo Roland AFANVI](https://octoprofile.vercel.app/user?id=rolandafanvi)
 
